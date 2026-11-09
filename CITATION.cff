@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite the Budgeted Sparse Attention paper."
+title: "Budgeted Sparse Attention - Official Implementation"
+authors:
+  - family-names: "Okafor"
+    given-names: "Z."
+  - family-names: "Lindqvist"
+    given-names: "M."
+references:
+  - type: conference-paper
+    title: "Budgeted Sparse Attention"
+    conference: "NeurIPS 2025"
+    year: 2025
+    identifiers:
+      - type: other
+        value: "arXiv:2511.07731"
